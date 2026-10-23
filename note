@@ -1,12 +1,26 @@
-Buku novel harganya 12 ribu
-Buku komik harganya 25 ribu
+<!-- buatkan 5 variabel 2 variabel type string 3 variabel numerik
+hasil outputnya console
 
-pelanggan membeli
-buku komik 7
-buku novel 10
 
-disko 50 ribu keatas 20%
+Nama: Abdur Aziz
+Tipe Nama: String
+Saldo: 2000000
+Tipe Saldo: Number
+Desil : 10
+loginDesil: true
+Tipe Login: Boolean
+Alamat: null
+Tipe Alamat: object -->
+<!-- 
+Sistem memeriksa kecepatan kendaraan.
+jika kecepatan 80km/jam, tampilkan peringatan, jika tidak kendaraan dinyatakan aman
 
-= hitunglah harga buku novel & komik
-hitung belanja berapa?
-hasil pembayaran berapa?
+OUTPUT
+Peringatan!
+Anda melebihi batas kecepatan -->
+
+diskon lebih besar dari 1 juta dapet 20%
+diskon lebih besar dari 2,5 juta dapet 30%
+diskon lebih besar dari 10 juta dapet 10%
+
+diskon untuk total harganya
